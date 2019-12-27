@@ -1,5 +1,7 @@
 # LetsGetLunch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dvbnrg/shiny-doodle.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
 
 ## Development server
